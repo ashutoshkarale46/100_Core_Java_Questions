@@ -98,6 +98,52 @@ This repository contains Java programs to generate various patterns. These are c
 
 ---
 
+# Java Programs: Demonstrating the `this` Keyword
+
+## List of Programs
+
+1. **Using `this` in Constructors**  
+   - Description: Demonstrates the use of `this` to refer to instance variables in constructors.  
+   - File: [`ThisInConstructor.java`](src/corejava/ThisInConstructor.java)
+
+2. **Using `this` to Refer to Instance Variables**  
+   - Description: Demonstrates resolving conflicts between instance variables and method parameters using `this`.  
+   - File: [`InstanceVariable.java`](src/corejava/InstanceVariable.java)
+
+3. **Using `this` to Invoke Current Class Methods**  
+   - Description: Demonstrates the use of `this` to call methods within the same class.  
+   - File: [`CurrentClassMethod.java`](src/corejava/CurrentClassMethod.java)
+
+4. **Using `this` to Return the Current Class Instance**  
+   - Description: Shows how `this` can be used to return the current instance of a class.  
+   - File: [`ReturnInstance.java`](src/corejava/ReturnInstance.java)
+
+5. **Using `this` in Method Chaining**  
+   - Description: Demonstrates method chaining by returning `this` from methods.  
+   - File: [`MethodChaining.java`](src/corejava/MethodChaining.java)
+
+6. **Using `this` to Invoke a Constructor**  
+   - Description: Demonstrates calling one constructor from another using `this()`.  
+   - File: [`InvokeConstructor.java`](src/corejava/InvokeConstructor.java)
+
+7. **Using `this` to Pass as an Argument in Constructor Call**  
+   - Description: Shows how `this` can be passed as an argument to another class's constructor.  
+   - File: [`ArgumentPassing.java`](src/corejava/ArgumentPassing.java)
+
+8. **Using `this` to Resolve Shadowing Problem**  
+   - Description: Demonstrates resolving variable shadowing using `this`.  
+   - File: [`ShadowingProblem.java`](src/corejava/ShadowingProblem.java)
+
+9. **Using `this` in Setter Methods**  
+   - Description: Demonstrates the use of `this` in setter methods to assign values to instance variables.  
+   - File: [`SetterMethods.java`](src/corejava/SetterMethods.java)
+
+10. **Using `this` to Access Class Members**  
+    - Description: Shows how to use `this` to call other methods or access class members.  
+    - File: [`AccessClassMembers.java`](src/corejava/AccessClassMembers.java)
+
+---
+
 ## How to Run
 
 1. Clone the repository:
