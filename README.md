@@ -48,6 +48,56 @@ This repository contains solutions to core Java practice questions. Below is the
 
 ---
 
+# Java Pattern Programs
+
+This repository contains Java programs to generate various patterns. These are commonly asked in interviews and are a great way to practice loops and logic-building.
+
+---
+
+## List of Pattern Programs
+
+1. **Pyramid Pattern**  
+   - Description: Print a pyramid pattern with stars.
+   - File: [`PyramidPattern.java`](src/corejava/PyramidPattern.java)
+
+2. **Reverse Pyramid Pattern**  
+   - Description: Print an inverted pyramid pattern with stars.
+   - File: [`ReversePyramid.java`](src/corejava/ReversePyramid.java)
+
+3. **Right-Angled Triangle Pattern**  
+   - Description: Print a right-angled triangle pattern with stars.
+   - File: [`RightAngledTriangle.java`](src/corejava/RightAngledTriangle.java)
+
+4. **Inverted Right-Angled Triangle Pattern**  
+   - Description: Print an inverted right-angled triangle pattern with stars.
+   - File: [`InvertedRightAngledTriangle.java`](src/corejava/InvertedRightAngledTriangle.java)
+
+5. **Diamond Pattern**  
+   - Description: Print a diamond pattern with stars.
+   - File: [`DiamondPattern.java`](src/corejava/DiamondPattern.java)
+
+6. **Hollow Square Pattern**  
+   - Description: Print a hollow square pattern.
+   - File: [`HollowSquare.java`](src/corejava/HollowSquare.java)
+
+7. **Hollow Triangle Pattern**  
+   - Description: Print a hollow right-angled triangle pattern.
+   - File: [`HollowTriangle.java`](src/corejava/HollowTriangle.java)
+
+8. **Pascal's Triangle**  
+   - Description: Print Pascal's triangle.
+   - File: [`PascalsTriangle.java`](src/corejava/PascalsTriangle.java)
+
+9. **Floyd's Triangle**  
+   - Description: Print Floyd's triangle.
+   - File: [`FloydsTriangle.java`](src/corejava/FloydsTriangle.java)
+
+10. **Butterfly Pattern**  
+    - Description: Print a butterfly pattern with stars.
+    - File: [`ButterflyPattern.java`](src/corejava/ButterflyPattern.java)
+
+---
+
 ## How to Run
 
 1. Clone the repository:
