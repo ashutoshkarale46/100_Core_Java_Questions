@@ -1,4 +1,4 @@
 ## Progress Tracker
-- [x] Positive, Negative, or Zero
-- [x] Largest of Three Numbers
-- [ ] Check Even or Odd
+- [x] 1.Positive, Negative, or Zero
+- [ ] 2.Largest of Three Numbers
+- [ ] 3.Check Even or Odd
