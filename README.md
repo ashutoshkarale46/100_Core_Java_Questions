@@ -54,3 +54,8 @@ This repository contains solutions to core Java practice questions related to co
    ```bash
    git clone https://github.com/<your-username>/100_Core_Java_Questions.git
    cd 100_Core_Java_Questions
+2. Open the project in IntelliJ IDEA or any Java IDE.
+
+3. Navigate to the respective file in the src/corejava directory.
+
+4. Run the file to test the program.
