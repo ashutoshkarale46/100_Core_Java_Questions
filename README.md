@@ -1,6 +1,6 @@
-# 100 Core Java Questions - Conditional Statements
+# ✅100 Core Java Questions🔥🚀
 
-This repository contains solutions to core Java practice questions related to conditional statements. Below is the list of problems covered along with their respective solution files.
+This repository contains solutions to core Java practice questions. Below is the list of problems covered along with their respective solution files.
 
 ---
 
