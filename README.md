@@ -52,7 +52,7 @@ This repository contains solutions to core Java practice questions. Below is the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/100_Core_Java_Questions.git
+   git clone https://github.com/ashutoshkarale46/100_Core_Java_Questions.git
    cd 100_Core_Java_Questions
 2. Open the project in IntelliJ IDEA or any Java IDE.
 
